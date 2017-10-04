@@ -1,5 +1,5 @@
 # credit data science dojo 
-# https://www.youtube.com/watch?v=XQgXKtPSzUI&t=244s&list=WL&index=26
+# https://www.youtube.com/watch?v=XQgXKtPSzUI
 import bs4
 from urllib.request import urlopen as uReq
 from bs4 import BeautifulSoup as soup
